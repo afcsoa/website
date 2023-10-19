@@ -171,6 +171,33 @@ nav {
     border: none;
 }
 
+
+.join-button {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: var(--color-accent);
+  color: var(--color-text);
+  text-align: center;
+  text-decoration: none;
+  border: none;  
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  border: none;
+}
+
+.join-button:hover {
+  color: var(--color-accent);
+  background-color: var(--color-text);
+}
+
+
+
+
+
+
+
 .mission {
     background-color: var(--color-secondary);
 
@@ -431,6 +458,7 @@ footer {
 .footer-container p,
 .footer-container strong {
     color: #ffffff;
+	margin-bottom: .5em;
 }
 
 .footer-container p strong {
@@ -563,7 +591,7 @@ footer {
 .service-columns {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
+    gap: 36px;
     margin-bottom: 20px;
 }
 
