@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://afcsoa.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://afcsoa.org/" rel="alternate" type="text/html" /><updated>2025-05-08T06:27:09+00:00</updated><id>https://afcsoa.org/feed.xml</id><title type="html">AFCSOA</title><subtitle>Automated Fare Collection System Operators Association</subtitle><entry><title type="html">The Scourge of Modern Times in AFC Systems Rarely Talked About</title><link href="https://afcsoa.org/publications/2022/09/24/afc-vendor-lock.html" rel="alternate" type="text/html" title="The Scourge of Modern Times in AFC Systems Rarely Talked About" /><published>2022-09-24T00:00:00+00:00</published><updated>2022-09-24T00:00:00+00:00</updated><id>https://afcsoa.org/publications/2022/09/24/afc-vendor-lock</id><content type="html" xml:base="https://afcsoa.org/publications/2022/09/24/afc-vendor-lock.html"><![CDATA[<p>A subtle yet pervasive issue unfolds its wings across the Automated Fare Collection (AFC) Systems landscape, and it goes beyond the technical and operational aspects – it taps into the fundamental dynamics of how stakeholders, including transit operators, agencies, and even passengers, navigate through their daily transactions and operational protocols: Vendor lock-in.</p>
+
+<p>A topic often shrouded in the shadows, vendor lock-in affects every nuance of AFC system interaction. While stakeholders may find solace in ISO standards like ISO-14443, viewing them as a refuge from compatibility issues, it is either craftiness or incompetence that shades the truth. The low-level communication between a card and a terminal, despite its universal market support and nuances that can indeed affect compatibility and subsequent costs, is just the tip of the iceberg.</p>
+
+<p>Venturing deeper, two pivotal aspects emerge, demanding undivided attention:</p>
+
+<ul>
+  <li>
+    <p>Electronic ticket data format: the method by which information about electronic tickets is stored, accessed, and modified on various ticket media.</p>
+  </li>
+  <li>
+    <p>Transaction data format and server (backend) interaction protocol: the means through which transaction exchanges and configuration data exchanges (involving tariffs, lists – black, white, grey, etc.) occur between the server and validators.</p>
+  </li>
+</ul>
+
+<p>This information, strategically concealed by vendors to establish and maintain their dominance, doesn’t need to be shrouded in secrecy. We’re not advocating for vendors to lay bare their software source codes and know-how, swinging from one extreme to the other. Rather, it is about facilitating a scenario where customers (transit authorities, operators, AFC system operators) are not handcuffed by their lack of access to this critical information, enabling them to sidestep potential vendor lock-in.</p>
+
+<p>At AFCSOA, we strive to build a bridge over this quagmire, developing electronic ticketing and data exchange formats that safeguard the interests of all AFC stakeholders, balancing the scales without forcing vendors to relinquish their proprietary formats to customers.</p>
+
+<p>Navigating further into the complexity of AFC Systems and vendor lock-in, there’s an imperative to dissect why this problem isn’t merely an isolated affair of vendors and AFC operators but spans to affect every strata of the public transport ecosystem. The ripples of this quandary touch the shores of operational efficiency, financial viability, and ultimately, passenger experience.</p>
+
+<p>Reflecting upon the implementation and ongoing management of AFC Systems, the subtle tentacles of vendor lock-in insidiously weave through every interaction, transaction, and decision-making process. From the ticket vending machines at stations to the digital interfaces that millions of passengers interact with on a daily basis, every touchpoint is dictated by decisions often made behind closed doors, concealed within the confines of proprietary formats and secretive operational protocols.</p>
+
+<p>Moreover, the lack of standardized electronic ticket data and transaction formats exacerbates the opacity with which AFC Systems operate, thereby amplifying the potential for inefficient system evolutions and fiscal missteps. This circumstantial monopoly does not merely stifle innovation but could potentially escalate operational costs, as transit agencies find themselves navigating through a labyrinthine path without the leverage of alternative vendor options or competitive pricing.</p>
+
+<p>This phenomenon necessitates an introspective glance at the holistic picture – evaluating not just the technicalities of systems in place but also casting a critical eye towards the financial and operational implications that these locked-in systems propagate over the duration of their existence.</p>
+
+<p>At AFCSOA, our commitment is not merely about discerning the issues but weaving through them to carve out viable, sustainable, and equitable solutions. Developing comprehensive and open electronic ticketing and data exchange formats isn’t merely a technical exercise but an embodiment of our pursuit towards operational transparency, financial viability, and a future-forward approach for all AFC stakeholders.</p>
+
+<p>Our mission extends into demystifying and dismantling these invisible barriers, crafting a landscape where AFC system technology is not a shrouded mystery but a transparent, interoperable platform upon which cities, transit agencies, and operators can build a future of public transport that is as equitable as it is innovative.</p>
+
+<p>We stand at the intersection of technology and public transport, not merely as observers but as active participants, shaping, guiding, and navigating through the challenges towards a horizon where AFC Systems are not gatekeepers but gateways - gateways to innovation, operational excellence, and enhanced passenger experiences.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[A subtle yet pervasive issue unfolds its wings across the Automated Fare Collection (AFC) Systems landscape, and it goes beyond the technical and operational aspects – it taps into the fundamental dynamics of how stakeholders, including transit operators, agencies, and even passengers, navigate through their daily transactions and operational protocols: Vendor lock-in.]]></summary></entry><entry><title type="html">Navigating the Pitfalls of Illusionary Investment in AFC Systems</title><link href="https://afcsoa.org/publications/2021/04/11/navigating-pitfalls-investments-afc.html" rel="alternate" type="text/html" title="Navigating the Pitfalls of Illusionary Investment in AFC Systems" /><published>2021-04-11T00:00:00+00:00</published><updated>2021-04-11T00:00:00+00:00</updated><id>https://afcsoa.org/publications/2021/04/11/navigating-pitfalls-investments-afc</id><content type="html" xml:base="https://afcsoa.org/publications/2021/04/11/navigating-pitfalls-investments-afc.html"><![CDATA[<p>In the realm of Automated Fare Collection Systems (AFCS), the advent of investment projects, typically characterized as BOO (Build-Own-Operate) or BOOT (Build-Own-Operate-Transfer) models, often promenade as promising pathways towards seamless implementation and operational efficiency. However, a deeper delve into the practices often unveils a myriad of issues that taint the purported investment strategy with layers of complexity and hidden challenges.</p>
+
+<p>When exploring the concept of investment projects, especially in the context of BOOT, the notion of ‘transfer’ often remains unfulfilled, a scenario that necessitates exploration in itself, exploring aspects of vendor lock-in, the struggles with system maintenance sans supplier involvement due to inadequate or absent documentation, and a palpable reluctance to relinquish business operations from a private entity.</p>
+
+<p>The crux of the matter lies in the underlying philosophy of an investment project: the principle that it should be offset or financially justified through subsequent economic impacts such as production augmentation, sales increase, or cost reduction, much akin to how energy-saving projects validate their financial expenditure through future energy cost curtailment.</p>
+
+<p>Yet, with AFC “investment” projects, a discernible guarantee or risk absorption by the investor concerning economic impacts remains conspicuously absent. Commonly, technical specifications or accountable deliverables embedded within project documents magnify aspects like “achieving a specified share of cashless payments within a determined timeframe” or quantifying installed validators, not necessarily parameters harmoniously tied to economic effects. The extrapolation that cashless payments amplify ridership or fare collection lacks tangible evidence, especially when juxtaposed with undeniable forthcoming costs entailing equipment installation and processing fees, among others.</p>
+
+<p>There’s a noticeable trend where stakeholders, such as transit authorities, may overlook these realities, whether intentionally or inadvertently. Indeed, the costs intensified by these investment projects invariably percolate through the financial structures of public transport, ultimating in an impact on city budgets or indirectly levying passengers through augmented fare rates. Investments inherently harbor heightened risks, which invariably permeate the cost framework of every project.</p>
+
+<p>In a scenario where transit authorities grapple with uncertainties regarding their returns in exchange for their investment, especially in cases where neither cashless payments nor AFC system implementation necessarily resolve inherent problems, the indispensability of clarity in implementing AFC systems becomes evident. Identifying clear, objective-aligned strategies, securing tangible, accountable deliverables, and ensuring rigorously calculated economic impacts are pivotal, always conscious of the axiom that advantages or benefits do not materialize without associated costs.</p>
+
+<p>At AFCSOA, our commitment extends towards crafting diverse business models, meticulously tailored to the unique needs of our customers, ensuring that AFC system implementation is not only cost-effective but strategically and economically sound, fostering a symbiotic relationship between innovation, investment, and tangible, beneficial output. Our resolve is steadfast in mitigating the allure of illusionary investments and ensuring that every step towards AFC implementation is firmly rooted in practicality, sustainability, and economic rationale.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[In the realm of Automated Fare Collection Systems (AFCS), the advent of investment projects, typically characterized as BOO (Build-Own-Operate) or BOOT (Build-Own-Operate-Transfer) models, often promenade as promising pathways towards seamless implementation and operational efficiency. However, a deeper delve into the practices often unveils a myriad of issues that taint the purported investment strategy with layers of complexity and hidden challenges.]]></summary></entry><entry><title type="html">Public Transport: A Crucial Infrastructure, Not a Testing Ground</title><link href="https://afcsoa.org/publications/2020/03/08/pt-not-playground.html" rel="alternate" type="text/html" title="Public Transport: A Crucial Infrastructure, Not a Testing Ground" /><published>2020-03-08T00:00:00+00:00</published><updated>2020-03-08T00:00:00+00:00</updated><id>https://afcsoa.org/publications/2020/03/08/pt-not-playground</id><content type="html" xml:base="https://afcsoa.org/publications/2020/03/08/pt-not-playground.html"><![CDATA[<p>In numerous instances, public transport inadvertently becomes a launching pad or, to use a precise term, a “springboard” for innovations and fledgling technologies. One might struggle to envision such experiments in domains like nuclear industry or medicine, posing a question that often goes unspoken: Why does this phenomenon permeate transport? For neophytes or those lacking depth in the field, public transport may exude an illusion of simplicity, presenting itself as an entity that is inherently comprehensible and transparent.</p>
+
+<p>However, this perception is decidedly a fallacy. Public Transport (PT) embeds itself as a vital artery in our daily lives, even in instances where we might not directly engage with it. Consider a scenario where PT becomes hamstrung due to traffic congestion or improper dispatching, leading to medical personnel being delayed for work (among other potential, cascading disruptions across various sectors).</p>
+
+<p>This paints a vivid picture as to why it is imperative that PT is never undervalued or subjected to hurried integrations of unproven technologies and innovations. Frequently touted advantages or economical effects often lack substantiating evidence, reinforcing the necessity for a cautious approach that allows for gradual implementation and thorough evaluation of trial results.</p>
+
+<p>At the Automated Fare Collection System Operators Association (AFCSOA), we diligently track emerging initiatives within AFC systems, offering our assessments and conducting meticulous analyses. Our objective doesn’t pivot on dictating the ‘right’ or ‘wrong’ in technological adoption - that remains the prerogative and responsibility of customers and suppliers.</p>
+
+<p>Instead, our mission orbits around safeguarding entities from prevalent pitfalls and ensuring that public transport stakeholders – such as agencies and operators – always have the latitude to revert or pivot with minimized repercussions. It is about steering away from a perilous path where critical infrastructure like PT becomes a sandbox for untested innovations, and guiding towards a trajectory where advancements are melded thoughtfully and strategically into the transport landscape.</p>
+
+<p>At AFCSOA, our relentless pursuit is to ensure that the multifaceted essence of public transport is understood, respected, and preserved amidst the currents of technological evolution, safeguarding its integrity and ensuring its role in our daily lives remains unshaken and undisrupted.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[In numerous instances, public transport inadvertently becomes a launching pad or, to use a precise term, a "springboard" for innovations and fledgling technologies. One might struggle to envision such experiments in domains like nuclear industry or medicine, posing a question that often goes unspoken: Why does this phenomenon permeate transport? For neophytes or those lacking depth in the field, public transport may exude an illusion of simplicity, presenting itself as an entity that is inherently comprehensible and transparent.]]></summary></entry><entry><title type="html">Unveiling the Multifaceted Essence of AFC Systems</title><link href="https://afcsoa.org/publications/2019/11/27/unveiling-afc-essence.html" rel="alternate" type="text/html" title="Unveiling the Multifaceted Essence of AFC Systems" /><published>2019-11-27T00:00:00+00:00</published><updated>2019-11-27T00:00:00+00:00</updated><id>https://afcsoa.org/publications/2019/11/27/unveiling%20afc-essence</id><content type="html" xml:base="https://afcsoa.org/publications/2019/11/27/unveiling-afc-essence.html"><![CDATA[<p>Automated Fare Collection (AFC) Systems are often hailed as heralds of innovation in the transit sector, particularly for their capability to introduce modern payment options. However, it is pivotal to understand that the profundity of AFC systems transcends beyond merely facilitating diverse payment methodologies. Such a narrowed perspective can eclipse the core essence and purpose derived from its nomenclature - to systematically collect fares, not just to offer varied payment avenues.</p>
+
+<h2 id="understanding-beyond-payment-options">Understanding Beyond Payment Options</h2>
+
+<p>The quintessential misconception revolves around associating AFC systems predominantly with the advent of novel payment options. Unfortunately, this rather elementary and layperson perspective obscures the cardinal philosophy behind the AFC system. True, innovative payment methods are a component, but it’s a piece of a much larger, intricate puzzle.</p>
+
+<h2 id="potential-pitfalls-of-improper-implementation">Potential Pitfalls of Improper Implementation</h2>
+
+<p>Noteworthy is the fact that improperly or haphazardly implemented payment options could potentially misdirect passengers, impair fare collection efficiency, and inadvertently elevate instances of fare evasion and fraud. Ironically, it’s not essentially the payment methods, nor the expedience of monetary transactions that pivotally drive passenger traffic.</p>
+
+<h2 id="passenger-experience-is-paramount">Passenger Experience is Paramount</h2>
+
+<p>If a passenger necessitates travel, they will invariably utilize public transport, irrespective of the available payment options. Undoubtedly, it is the holistic travel experience that magnetizes traffic towards public transport. Ergo, when instigating AFC systems, the initial focus should align not primarily with payment options - a field where surprising passengers with card acceptance, for instance, is no longer a novelty - but rather, it should emphasize cultivating passenger loyalty and fostering timely, comprehensive fare payments. This can be realized through streamlining ticket purchasing processes, introducing financially advantageous multi-ride tickets to incentivize advanced payments, and minimizing fare collection costs.</p>
+
+<h2 id="the-obligations-of-afc-system-operators">The Obligations of AFC System Operators</h2>
+
+<p>While the technical framework of an AFC system may operate without a hitch, it might still fall short of achieving its primary objectives if it’s not aligned with and configured towards those ends. It becomes the duty of AFC system operators to implement the system in a configuration that strategically aligns with and facilitates the realization of these objectives. Distressingly, there are instances where contemplation about the outcomes and efficiencies of implementations are considered post-factum, a phase where acknowledging the futility of expended budgets and efforts becomes a bitter pill to swallow.</p>
+
+<h2 id="expertise-as-a-crucial-facet">Expertise as a Crucial Facet</h2>
+
+<p>A prevailing yet misguided belief exists that innovations or technologies, in and of themselves, will miraculously resolve issues. Irrespective of how innovative or advanced a technology may be, it won’t resolve problems if it’s not designed to address them or if it’s erroneously implemented. This underscores why expertise, particularly in this multifaceted domain that intersects knowledge of public transport operations, payment technologies, and contactless functionalities, becomes crucial.</p>
+
+<p>At the Automated Fare Collection System Operators Association (AFCSOA), we engage in a meticulous analysis, collection, and development of a knowledge base and best practices for the judicious implementation of AFC systems. We strive to safeguard public transport stakeholders, including cities, transit agencies, and operators, from undergoing experiences that, while seemingly innovative on the surface, could potentially be detrimental due to misconceived perceptions and implementations.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Automated Fare Collection (AFC) Systems are often hailed as heralds of innovation in the transit sector, particularly for their capability to introduce modern payment options. However, it is pivotal to understand that the profundity of AFC systems transcends beyond merely facilitating diverse payment methodologies.]]></summary></entry><entry><title type="html">The Integral Role of AFC System Operators in Streamlining Public Transport</title><link href="https://afcsoa.org/publications/2019/07/15/the-role-of-afc-operators.html" rel="alternate" type="text/html" title="The Integral Role of AFC System Operators in Streamlining Public Transport" /><published>2019-07-15T06:38:14+00:00</published><updated>2019-07-15T06:38:14+00:00</updated><id>https://afcsoa.org/publications/2019/07/15/the-role-of-afc-operators</id><content type="html" xml:base="https://afcsoa.org/publications/2019/07/15/the-role-of-afc-operators.html"><![CDATA[<p><img src="/assets/images/post-2019-07-15-1.png" alt="The role of AFC Operators" /></p>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>While the digital wave prominently reshapes multiple industries, it has also significantly impacted the realm of public transit, introducing Automated Fare Collection (AFC) systems. However, there’s an often-overlooked player in this digital transformation – the AFC System Operator.</p>
+
+<h2 id="misconceptions-and-overlooked-significance">Misconceptions and Overlooked Significance</h2>
+
+<p>A common misconception prevailing among transit agencies and operators is envisioning the implementation of an AFC system as a ‘magic wand.’ But is it as simple as flipping a switch? Vendors, focused on product sales, often neglect the post-implementation reality, assuming the functionality of their equipment is the end of the road. But is that all there is to it?</p>
+
+<h2 id="the-invisible-network-analogies-in-understanding">The Invisible Network: Analogies in Understanding</h2>
+
+<p>Consider mobile network operators. It’s universally acknowledged that merely installing cell towers and distributing smartphones won’t create a functioning network. The pivotal role lies in the hands of those who operate, manage, and optimize the network. Why then, when it comes to AFC, is the necessity of operators often disregarded?</p>
+
+<h2 id="the-role-of-afc-system-operators">The Role of AFC System Operators</h2>
+
+<p>In essence, an AFC System Operator ensures the consistent and reliable operation of the AFC system.</p>
+
+<p>For large public transit operators, who might manage AFC systems internally, this involves a dedicated team. Essentially, it mirrors having a mini mobile network managed within a single company.</p>
+
+<p>However, for smaller transit operators or scenarios involving multiple entities, especially those that cannot afford to set up a new department or hire qualified personnel, AFC System Operators become indispensable.</p>
+
+<h2 id="behind-the-scenes-more-than-just-technical-operations">Behind the Scenes: More than Just Technical Operations</h2>
+
+<p>The duties of AFC System Operators transcend the apparent technical components, like selecting appropriate configurations or managing ticketing media. Their role is to coordinate the overall system operation:</p>
+
+<ul>
+  <li>
+    <p>Establishing ticket purchase networks, which includes integrating with IT infrastructure and onboarding ticket sale agents.</p>
+  </li>
+  <li>
+    <p>Overseeing ticket issuance and distribution.</p>
+  </li>
+  <li>
+    <p>Integrating all stakeholders into the system: transit operators, agencies, passengers, and agents.</p>
+  </li>
+  <li>
+    <p>Ensuring seamless system functionality.</p>
+  </li>
+</ul>
+
+<h2 id="organizing-analyzing-and-providing-unseen-support">Organizing, Analyzing, and Providing Unseen Support</h2>
+
+<p>AFC System Operators also delve into:</p>
+
+<ul>
+  <li>
+    <p>Implementing various fare and ticket types.</p>
+  </li>
+  <li>
+    <p>Data collection and analysis, report formation.</p>
+  </li>
+  <li>
+    <p>Organizing payments for services provided between agents and transit companies.</p>
+  </li>
+  <li>
+    <p>Offering 24/7/365 technical and customer support – not just to transit operators and agencies but also to agents, their personnel, and notably, the passengers.</p>
+  </li>
+</ul>
+
+<h2 id="mitigating-challenges-for-public-transport-entities">Mitigating Challenges for Public Transport Entities</h2>
+
+<p>For public transport entities, collaborating with AFC System Operators alleviates numerous challenges, enabling them to focus on their core business activities. This partnership minimizes costs and negates the necessity of becoming instant IT experts, offering an alternative to either mastering the digital domain internally or outsourcing to seasoned experts in the form of AFC System Operators.</p>
+
+<h2 id="the-underpinning-of-financial-flow-in-transit-operations">The Underpinning of Financial Flow in Transit Operations</h2>
+
+<p>In the grand scheme, AFC System Operators do more than keep the technological wheels turning; they enable transit operators to do what is paramount: collect revenue for their services. In a nutshell, they aid in the survival and financial sustenance of transit companies by offering specialized, high-value services that underpin the entire operation.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>In navigating the intricacies of digital transition, understanding and acknowledging the pivotal role of AFC System Operators is paramount. These entities, operating subtly behind the scenes, ensure not just the functionality but the optimization of automated fare collection systems, facilitating a smoother, more efficient public transit experience for operators and passengers alike.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[While the digital wave prominently reshapes multiple industries, it has also significantly impacted the realm of public transit, introducing Automated Fare Collection (AFC) systems. However, there's an often-overlooked player in this digital transformation – the AFC System Operator.]]></summary></entry></feed>
